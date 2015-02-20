@@ -1,6 +1,7 @@
 Change Log:
 v1.3
 Updated to support v1.7.10 MC
+Added New GUI
 v1.2
 Updated to support v1.6.2 MC
 V1.1
